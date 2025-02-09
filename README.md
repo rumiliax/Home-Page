@@ -18,7 +18,7 @@ Hikari Tab is a custom start page designed for convenient and quick access to es
 
 <details>
   <summary>Click to view preview</summary>
-  <img src="https://github.com/rumiliax/New-Tab/raw/main/Asset/Preview.png" height="500">
+  <img src="https://github.com/rumiliax/New-Tab/raw/main/assets/Preview.png" >
 </details>
 
 ## Installation 
