@@ -1,9 +1,27 @@
-# Hikari Tab
+# Hikari Tab (ヒカリタブ) ✨
 
-Hikari Tab is a custom start page for the browser, designed for convenient and quick access to essential services.
+Hikari Tab is a custom start page designed for convenient and quick access to essential services. With a minimalist design and anime aesthetics, it offers neatly organized links to productivity tools, social platforms, and entertainment resources. This page is fully customizable to adapt to your personal style and preferences.
 
-The project combines a minimalist design with anime aesthetics, providing neatly organized links to productivity tools, social platforms, and entertainment resources.
+## Features
 
-The page is easily customizable, allowing users to adapt it to their own preferences and style.
+- **Minimalist Design**: A clean, distraction-free layout to improve your browsing experience. 🧹
+- **Customizable**: Tailor the page to match your preferences, from colors to layout. 🎨
+- **Quick Access**: Easily access all your essential links in one place. ⚡
+- **Anime Aesthetics**: A visually appealing design inspired by anime culture. 🎮
 
-![Hikari Tab Screenshot](https://github.com/rumiliax/New-Tab/blob/main/Asset/Preview.png)
+## Preview 👀
+
+<details>
+  <summary>Click to view preview</summary>
+  ![Hikari Tab Screenshot](https://github.com/rumiliax/New-Tab/blob/main/Asset/Preview.png)
+</details>
+
+## Installation 🛠️
+
+1. Download or clone the repository.
+2. Open the `index.html` file in your preferred browser.
+3. Customize the page by editing the HTML or CSS to suit your needs.
+
+## License 📄
+
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
