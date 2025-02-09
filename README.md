@@ -1,4 +1,4 @@
-# Home Page 🌐
+# Home Page 🏠
 
 A custom start page designed for quick and convenient access to essential services. Featuring a minimalist design with anime aesthetics, it organizes links to productivity tools, social platforms, and entertainment resources in a neat and user-friendly layout. This page is fully customizable to match your unique style and preferences. ✨
 
