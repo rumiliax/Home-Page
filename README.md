@@ -5,3 +5,10 @@ Hikari Tab is a custom start page for the browser, designed for convenient and q
 The project combines a minimalist design with anime aesthetics, providing neatly organized links to productivity tools, social platforms, and entertainment resources.
 
 The page is easily customizable, allowing users to adapt it to their own preferences and style.
+
+![Hikari Tab Screenshot](https://your-image-link.com)
+
+## Features
+- Minimalistic interface
+- Easy customization
+- Links to productivity, social media, and entertainment
