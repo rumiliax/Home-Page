@@ -7,8 +7,3 @@ The project combines a minimalist design with anime aesthetics, providing neatly
 The page is easily customizable, allowing users to adapt it to their own preferences and style.
 
 ![Hikari Tab Screenshot](https://github.com/rumiliax/New-Tab/blob/main/Asset/Preview.png)
-
-## Features
-- Minimalistic interface
-- Easy customization
-- Links to productivity, social media, and entertainment
