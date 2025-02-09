@@ -29,4 +29,4 @@ Hikari Tab is a custom start page designed for convenient and quick access to es
 
 ## License 
 
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License – see the [LICENSE](https://github.com/rumiliax/New-Tab/blob/main/LICENSE) file for details.
