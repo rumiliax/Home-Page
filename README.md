@@ -1,6 +1,6 @@
-# Hikari Tab (ヒカリタブ) 
+# Home Page (ヒカリタブ) 
 
-Hikari Tab is a custom start page designed for convenient and quick access to essential services. With a minimalist design and anime aesthetics, it offers neatly organized links to productivity tools, social platforms, and entertainment resources. This page is fully customizable to adapt to your personal style and preferences.
+Home Page is a custom start page designed for convenient and quick access to essential services. With a minimalist design and anime aesthetics, it offers neatly organized links to productivity tools, social platforms, and entertainment resources. This page is fully customizable to adapt to your personal style and preferences.
 
 ## Features
 
