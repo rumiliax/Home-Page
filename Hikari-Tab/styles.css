@@ -1,0 +1,75 @@
+:root {
+    --primary-color: rgb(164, 11, 57);
+    --secondary-color: rgb(255, 255, 255);
+    --highlight-color: rgb(255, 0, 127);
+    --hover-color: rgb(234, 236, 251);
+    --text-light: rgba(255, 238, 238, 0.714);
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('Fonts/Roboto/Roboto-Regular.ttf') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+    color: var(--secondary-color);
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    flex-direction: column;
+    user-select: none;
+}
+
+.container {
+    background-color: var(--primary-color);
+    width: 910px;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    border-radius: 20px;
+}
+
+.image {
+    width: 370px;
+    height: 100%;
+    margin-right: 20px;
+    position: relative;
+    border-radius: 20px 0 0 20px;
+    pointer-events: none;
+}
+
+.links {
+    text-align: left;
+    padding: 10px;
+}
+
+.links h2 {
+    color: var(--text-light);
+    margin-top: 15px;
+    font-size: 0.98em;
+}
+
+.links a {
+    color: var(--text-dark);
+    text-decoration: none;
+    display: inline-block;
+    margin-right: 10px;
+    margin-top: 10px;
+    font-size: 1em;
+    padding: 10px 10px;
+    border-radius: 1px;
+    border: 1px solid var(--highlight-color);
+    transition: all 0.3s ease; 
+
+}
+
+.links a:hover {
+    color: var(--hover-color);
+    border: 1px solid var(--hover-color);
+}
+
