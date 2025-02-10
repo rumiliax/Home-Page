@@ -7,8 +7,11 @@ A custom start page designed for quick and convenient access to essential servic
 - **Quick Access**: All your essential links in one place for easy navigation. 
 - **Anime Aesthetics**: A visually pleasing design inspired by anime culture. 
 ---
+
   <img src="https://github.com/rumiliax/New-Tab/raw/main/assets/Preview.png">
+  
 ---
+
 ## 🛠️ Installation 
 1. Download or clone the repository. 
 2. Open the `index.html` file in your preferred browser. 
