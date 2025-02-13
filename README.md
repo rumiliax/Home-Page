@@ -8,8 +8,12 @@ A custom start page designed for quick and convenient access to essential servic
 - **Anime Aesthetics**: A visually pleasing design inspired by anime culture. 
 ---
 
-  <img src="https://github.com/rumiliax/New-Tab/raw/main/assets/Preview.png">
-  
+## Default
+![Default](https://github.com/rumiliax/Home-Page/blob/main/assets/Default.png)
+
+## Open calendar
+![Open Calendar](https://github.com/rumiliax/Home-Page/blob/main/assets/Open%20calendar.png)
+
 ---
 
 ## 🛠️ Installation 
@@ -19,4 +23,4 @@ A custom start page designed for quick and convenient access to essential servic
 
 ## 📜 License 
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/rumiliax/New-Tab/blob/main/LICENSE) file for more details. 
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/rumiliax/New-Tab/blob/main/LICENSE) file for more details.
