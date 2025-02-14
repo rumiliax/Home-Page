@@ -33,18 +33,15 @@ document.addEventListener("DOMContentLoaded", function () {
                     <div class='calendar-days'>${daysOfWeek.map(day => `<span>${day}</span>`).join('')}</div>
                     <div class='calendar-grid'>`;
 
-        // Заполнение предыдущими днями
         for (let i = firstDay - 1; i >= 0; i--) {
             html += `<span class='day prev-month'>${prevMonthDays - i}</span>`;
         }
 
-        // Заполнение днями текущего месяца
         for (let i = 1; i <= daysInMonth; i++) {
             let selectedClass = i === selectedDay ? "selected-day" : "";
             html += `<span class='day ${selectedClass}' data-day="${i}">${i}</span>`;
         }
 
-        // Заполнение следующими днями
         let nextDays = 42 - (firstDay + daysInMonth);
         for (let i = 1; i <= nextDays; i++) {
             html += `<span class='day next-month'>${i}</span>`;
@@ -54,7 +51,6 @@ document.addEventListener("DOMContentLoaded", function () {
 
         calendar.innerHTML = html;
 
-        // Обработчики для перехода по месяцам
         document.querySelector(".prev-month").addEventListener("click", (e) => {
             e.stopPropagation();
             month--;
@@ -77,7 +73,6 @@ document.addEventListener("DOMContentLoaded", function () {
             generateCalendar();
         });
 
-        // Обработчики для перехода по годам
         document.querySelector(".prev-year").addEventListener("click", (e) => {
             e.stopPropagation();
             year--;
@@ -92,7 +87,6 @@ document.addEventListener("DOMContentLoaded", function () {
             generateCalendar();
         });
 
-        // Обработчик для выбора дня
         document.querySelectorAll(".day").forEach(day => {
             day.addEventListener("click", (e) => {
                 selectedDay = parseInt(e.target.getAttribute("data-day"));
@@ -110,14 +104,12 @@ document.addEventListener("DOMContentLoaded", function () {
 
     generateCalendar();
 
-    // Показываем календарь при клике на иконку
     const calendarIcon = document.querySelector(".calendar-icon");
     calendarIcon.addEventListener("click", (e) => {
         e.stopPropagation();
         calendar.style.display = "block";
     });
 
-    // Скрываем календарь, если кликнули вне его
     document.addEventListener("click", (e) => {
         if (!calendar.contains(e.target) && !calendarIcon.contains(e.target)) {
             calendar.style.display = "none";
