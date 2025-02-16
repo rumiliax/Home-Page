@@ -6,6 +6,6 @@ A custom start page designed for quick and convenient access to essential servic
     <summary><samp>Show previews</samp></summary>
  
 ![Default](https://github.com/rumiliax/Home-Page/blob/main/assets/Demonstration%20Video.mp4)
-![Open Calendar](https://github.com/rumiliax/Home-Page/blob/main/assets/Preview-02.png)
+![Open Calendar](https://github.com/rumiliax/Home-Page/blob/main/assets/Screenshot.png)
 
 
