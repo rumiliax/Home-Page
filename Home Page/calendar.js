@@ -1,6 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
     const calendar = document.querySelector(".calendar");
-
     let year = new Date().getFullYear();
     let month = new Date().getMonth();
     let selectedDay = new Date().getDate();
@@ -48,7 +47,6 @@ document.addEventListener("DOMContentLoaded", function () {
         }
 
         html += `</div>`;
-
         calendar.innerHTML = html;
 
         document.querySelector(".prev-month").addEventListener("click", (e) => {
@@ -104,15 +102,21 @@ document.addEventListener("DOMContentLoaded", function () {
 
     generateCalendar();
 
-    const calendarIcon = document.querySelector(".calendar-icon");
-    calendarIcon.addEventListener("click", (e) => {
+    const calendarText = document.querySelector(".calendar-text");
+    calendarText.addEventListener("click", (e) => {
         e.stopPropagation();
-        calendar.style.display = "block";
-    });
-
-    document.addEventListener("click", (e) => {
-        if (!calendar.contains(e.target) && !calendarIcon.contains(e.target)) {
-            calendar.style.display = "none";
+        
+        if (calendar.classList.contains("show-calendar")) {
+            calendar.classList.remove("show-calendar");
+            setTimeout(() => {
+                calendar.style.display = "none";
+            }, 500);
+        } else {
+            calendar.style.display = "block";
+            setTimeout(() => {
+                calendar.classList.add("show-calendar");
+            }, 10);
         }
     });
 });
+
