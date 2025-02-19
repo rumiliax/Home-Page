@@ -1,24 +1,24 @@
-## Description
+## 説明（せつめい）  
 
-**Home Page** is a customizable start page designed for quick and convenient access to essential services. It features a minimalist design with anime aesthetics, organizing links to productivity tools, social platforms, and entertainment resources in a neat and user-friendly layout.
+**Home Page** は、必要（ひつよう）なサービスへ素早（すばや）く便利（べんり）にアクセスできるカスタマイズ可能（かのう）なスタートページです。ミニマルなデザインとアニメ風（ふう）の美（うつく）しいスタイルを特徴（とくちょう）とし、生産性（せいさんせい）ツール、ソーシャルプラットフォーム、エンターテインメントサービスへのリンクを整理（せいり）して、使（つか）いやすいレイアウトで提供（ていきょう）します。  
 
-## Features
+## 特徴（とくちょう）  
 
-- 📌 **Minimalist Interface** — Clean and intuitive design without unnecessary elements.
-- 🎨 **Anime Aesthetics** — Stylish visuals inspired by anime.
-- 🔗 **Quick Access** — Organized links to essential services categorized for convenience.
-- ⚙️ **Fully Customizable** — Modify styles and settings to match your preferences.
+- 📌 **シンプルなインターフェース** — 余計（よけい）な要素（ようそ）がない、直感的（ちょっかんてき）で分（わ）かりやすいデザイン。  
+- 🎨 **アニメ風（ふう）のデザイン** — アニメに影響（えいきょう）を受（う）けたスタイリッシュなビジュアル。  
+- 🔗 **素早（すばや）いアクセス** — カテゴリーごとに整理（せいり）された便利（べんり）なリンク。  
+- ⚙️ **自由（じゆう）にカスタマイズ可能（かのう）** — 自分（じぶん）の好（この）みに合（あ）わせてスタイルや設定（せってい）を変更（へんこう）できる。  
 
-## Installation
+## インストール  
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/rumiliax/Home-Page.git
-   ```
-2. **Open the project** in any text editor or browser.
-3. **Customize the page** by editing the HTML and CSS files.
-4. **Set it as your browser’s start page** for easy access.
+1. **リポジトリをクローンする：**  
+```bash
+git clone https://github.com/rumiliax/Home-Page.git
+```  
+2. **任意（にんい）のテキストエディタやブラウザでプロジェクトを開（ひら）く。**  
+3. **HTMLやCSSファイルを編集（へんしゅう）してページをカスタマイズする。**  
+4. **ブラウザのスタートページに設定（せってい）して簡単（かんたん）にアクセスできるようにする。**  
 
-## License
+## ライセンス  
 
-This project is licensed under the MIT License. You are free to use and modify it as you wish.
+このプロジェクトは **MITライセンス** の下（もと）で提供（ていきょう）されています。自由（じゆう）に使用（しよう）・改変（かいへん）することができます。  
