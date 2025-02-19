@@ -1,5 +1,3 @@
-# 🏠 Home Page
-
 ## Description
 
 **Home Page** is a customizable start page designed for quick and convenient access to essential services. It features a minimalist design with anime aesthetics, organizing links to productivity tools, social platforms, and entertainment resources in a neat and user-friendly layout.
