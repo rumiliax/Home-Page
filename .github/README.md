@@ -21,12 +21,6 @@
 3. **Customize the page** by editing the HTML and CSS files.
 4. **Set it as your browser’s start page** for easy access.
 
-## Preview
-
-🎥 **[Watch the Demonstration Video](https://github.com/rumiliax/Home-Page/raw/main/assets/Demonstration%20Video.mp4)**
-
-🖼️ **[View Screenshot](https://github.com/rumiliax/Home-Page/raw/main/assets/Screenshot.png)**
-
 ## License
 
 This project is licensed under the MIT License. You are free to use and modify it as you wish.
